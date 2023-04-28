@@ -2,6 +2,7 @@ package cinema
 
 fun main() {
     // write your code here
+
     println("Enter the number of rows:")
     val rows = readLine()!!.toInt()
     println("Enter the number of seats in each row:")
