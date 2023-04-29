@@ -7,7 +7,7 @@ fun main() {
     val rows = readLine()!!.toInt()
     println("Enter the number of seats in each row:")
     val seats = readLine()!!.toInt()
-    println("Total income:")di
+    println("Total income:")
     if (rows * seats <= 60) {
         println("$${rows * seats * 10}")
     } else {
