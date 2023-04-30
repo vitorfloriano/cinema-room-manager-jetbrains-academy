@@ -14,4 +14,5 @@ fun main() {
         println("$${(rows / 2 * seats * 10) + (rows - rows / 2) * seats * 8}")
     }
 
+
 }
